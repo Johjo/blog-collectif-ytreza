@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Collectif ytreza.dev</title>
-    <link>https://example.org/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Collectif ytreza.dev</description>
     <generator>Hugo</generator>
     <language>fr</language>
     <lastBuildDate>Tue, 19 Nov 2024 09:55:56 +0100</lastBuildDate>
-    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mob Programming</title>
-      <link>https://example.org/posts/mob-programming/</link>
+      <link>http://localhost:1313/posts/mob-programming/</link>
       <pubDate>Tue, 19 Nov 2024 09:55:56 +0100</pubDate>
-      <guid>https://example.org/posts/mob-programming/</guid>
-      <description>&lt;p&gt;Test&lt;/p&gt;</description>
+      <guid>http://localhost:1313/posts/mob-programming/</guid>
+      <description>&lt;p&gt;Genesis&#xA;At the very beginning, each developer was behind his own computer in his garage or whatever room they liked to be in. There were very few of them because affording a computer was far from how easy it is today.&lt;/p&gt;&#xA;&lt;p&gt;Years passed and companies started to show needs for software development. Developers were hired to work on projects in the same place. Development became a team activity. Hurray !&lt;/p&gt;&#xA;&lt;p&gt;These developers had to organize their work in a way the would be efficient.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
