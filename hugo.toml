@@ -1,0 +1,4 @@
+baseURL = 'https://example.org/'
+languageCode = 'fr'
+title = 'Collectif ytreza.dev'
+theme = 'ananke'
