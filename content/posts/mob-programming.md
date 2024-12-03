@@ -22,3 +22,78 @@ Tous ces concepts étaient complexes pour partager le travail d'équipe. Un jour
 Et enfin, avec Internet, le remote mob programming a vu le jour.
 
 But did it really ?
+
+## Why do we choose mob programming ?
+
+Manque de compétence
+Panel d'expertise bien plus large.
+Tout le monde connait le projet.
+On apprend tous en même temps.
+Les décisions sont prises au fil de l'eau
+L'ownership est à l'équipe.
+
+On commence et termine une seule chose à la fois.
+L'équipe entière est responsable du focus de l'équipe (toujours quelqu'un pour faire timekeeper / focus keeper)
+
+Il y a toujours au moins une personne pour soutenir le rythme de l'équipe.
+Plus rigoureux.
+Pas de démotivation / d'épuisement.
+
+On sait tous où on en est.
+Pas besoin de faire de réunion / point d'étape asynchrone
+Onboarding très rapide.
+Chacun peut aller et venir en fonction de prios et de agendas de chacun
+Problématique: Pas de dispo à 100% prévu
+
+
+## For which activity
+
+Dev (évidemment)
+Priorisation des tâches au sein d'une mission
+Construction d'un devis / répondre à un prospect
+Organisation / structuration du collectif.
+Ce n'est pas une personne qui pour tout le monde et on prend une décision qu'à partir de 3 personnes présentes. Pour autant, on attend pas les absents (sinon ça ralentirait la construction)
+S'essayer à l'écriture d'article (au hasard :D)
+Optimiser nos profiles LinkedIn et autres
+Organisation d'événements
+Post LinkedIn ? Ca reste un branding individuel même si une partie du branding collectif peut être derrière :)
+
+
+## How
+### Les moyens techniques
+
+partage de code : LiveShare, CodeWithMe
+partage d'écran : Discord / RustDesk
+Vocal: Discord / meet ponctuel avec les prospects / clients
+Note: Framapad / TODO.md
+Code: Git, mob.sh, timer (navigator / pilot)
+
+### La méthode
+Timeboxing avec souplesse (laisse le pilote termienr l'écriture de sa ligne de cas de test par ex et le navigateur finir son flow de pensée)
+Switch régulier navigator / pilot.
+On switche toujours dans un état maîtrisé (rouge ou vert)
+Assigner des rôles à chacun (timekeeper, ). 
+S'assurer que chacun participe activement : la loi des deux pieds 
+
+
+## Who talks about Software Teaming
+Woody Zuill (son bouquin) & Kevin Meadows
+Chris Pipito (regular free event brite session). [[[Next is scheduled on 12/5 -> Move this on in LI post and outside article]]]
+Manon Carbonnel : https://www.linkedin.com/in/manon-carbonnel/ Elle intervient souvent dans les con
+Marjorie Aubert : https://www.linkedin.com/in/marjorie-aubert-full-stack-developer/ Elle a commencé le développement directement dans une équipe pratiquant le mob et elle partage son expérience durant les conférences. 
+
+Emily Bache (méthode samman)
+
+
+
+## How to start
+
+Vous pouvez aussi trouver des meetup qui organisent des coding dojo. Il y en a dans chaque grande ville. Lors de ces coding dojo, il est courant de le faire en mob programming.
+
+Enfin, le meilleur endroit, c'est au sein de votre équipe. Vous pouvez commencer dès maintenant et si la mise en place est trop compliquée, il y a plusieurs coach techniques qui pourraient vous accompagner.
+
+Pas encore chaud de faire ça dans votre équipe ? Venez sur le collectif (lien discord ou pas ?) et on se fait une session ensemble.
+
+## Aller plus loin
+Nous rejoindre sur le discord : https://discord.gg/Z7GeFzpZBT
+https://github.com/willemlarsen/mobprogrammingrpg/blob/master/rpg_roles_plain_text.md
