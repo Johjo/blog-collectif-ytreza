@@ -26,6 +26,9 @@ But did it really ?
 ## Why do we choose mob programming ?
 
 Manque de compétence
+  > Personnellement, j'étais dans l'incapacité de réaliser un projet de A à Z (back, front, CI/CD, déploiement/hébergement, sécurité, etc.). En voyant les recherches de développeur, c'est souvent le mouton à 5 pattes qui est demandé. Il y a trop de compétences attendues dans une fiche de poste. On peut avoir survolé mais sans maîtriser les compétences demandées. Maîtriser ces compétences est impossible pour une personne [normale]. Le mob programming répond à cette problématique d'optenir "un" dév qui sache adresser un scope plus large - Jonathan
+
+
 Panel d'expertise bien plus large.
 Tout le monde connait le projet.
 On apprend tous en même temps.
