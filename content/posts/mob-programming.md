@@ -68,9 +68,15 @@ Chacun peut aller et venir en fonction de prios et de agendas de chacun
 Problématique: Pas de dispo à 100% prévu
 
 
-## For which activity
+## For which activities?
 
-Dev (évidemment)
+We currently pratice mob programming for various types of activitie, the most obvious one beingis development. After all we are devs, right?
+Because the coding part in a project is never the starting point, nor the ending one, we also have to consider other chores to do.
+
+Before partnership begins between a client and us, we need to understand the problem we aim to solve.  
+Having the team available for a meeting helps a lot with asking the right questions. Remember, we need as much information as possible to make sure we have the required skills to come up with the right solution. 
+
+Partnership might have to begin with a quote and this is something we tackle collectively
 Priorisation des tâches au sein d'une mission
 Construction d'un devis / répondre à un prospect
 Organisation / structuration du collectif.
