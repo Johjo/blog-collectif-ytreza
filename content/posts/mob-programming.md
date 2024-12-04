@@ -70,18 +70,20 @@ Problématique: Pas de dispo à 100% prévu
 
 ## For which activities?
 
-### During a mission
 We currently pratice mob programming for various types of activities, the most obvious one being development. After all we are devs, right?
-Because the coding part in a project is never the starting point, nor the ending one, we also have to consider other chores to do.
 
-Before partnership even begins between a client and us, we need to understand the problem we aim to solve.  
-Having the team available for a first meeting helps a lot to ask the right questions. Remember, we need as much information as possible to make sure we have the required skills to come up with the right solution. 
+### During a mission
+Because the coding part in a project is never the starting point, nor the ending one, we also have to consider other tasks to attend to.
 
-Speaking about partnership, it might have to begin with a quote and this is something we tackle collectively. We decide together to share a degree of risk. We success as a team or fail as team.
+Before partnership even begins between a client and us, we need to understand the problem we aim to solve. Having the team available for a first meeting helps a lot to ask the right questions.  
+Remember, we need as much information as possible to make sure we have the required skills to come up with the right solution. We might have to onboard newcomers in our collective to fulfill these requirements.
 
-### Outside a mission
-Priorisation des tâches au sein d'une mission
-Construction d'un devis / répondre à un prospect
+About partnership, it might have to begin with a quote and this is something we tackle collectively. We decide together to share a degree of risk. We success as a team or fail as team.
+
+Priorities are always discussed and defined with the customer. We aim for the most value as fast as possible while seeking for active user feedbacks.  
+Because the most urgent feature could break into multiple subtasks, priorisation is dealt internally. There is always someone in the mob programming who put on the focus maintener role. 
+
+### Outside of a mission
 Organisation / structuration du collectif.
 Ce n'est pas une personne qui pour tout le monde et on prend une décision qu'à partir de 3 personnes présentes. Pour autant, on attend pas les absents (sinon ça ralentirait la construction)
 S'essayer à l'écriture d'article (au hasard :D)
