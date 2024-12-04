@@ -27,22 +27,25 @@ But did it really ?
 
 Manque de compétence
 Panel d'expertise bien plus large.
-  > Jonathan: Personnellement, j'étais dans l'incapacité de réaliser un projet de A à Z (back, front, CI/CD, déploiement/hébergement, sécurité, etc.). En voyant les offres d'emploi pour du dév, c'est souvent le mouton à 5 pattes qui est attendu 🐑. Il y a trop de compétences attendues dans une fiche de poste. On peut avoir survolé mais sans maîtriser les compétences demandées. Maîtriser ces compétences est impossible pour une personne [normale] - Jonathan
-
-  > Dimitri: De mon côté, je cherche à avoir de l'homogénéité au sein de l'équipe. Je suis fatigué de devoir répété des choix de design qui ont été pris avec une partie des membres de l'équipe mais pas tout le monde. J'aime comprendre aussi pourquoi certains choix ont été fait donc je vais à mon tour demander ce qui a motivé tel ou tel choix. - Dimitri
-
-D'autres citation pour évoquer d'autres problèmes ?
-  > D : Pratiques !=. Comment se synchro / se mettre d'accord
-  > J : Besoin de trop d'interactions entre les différentes personnes. On adresse trop de sujet en même temps. On avance pas tous au même rythme 
-
-  > D : Je suis pas bon en front -> Je laisse à quelque d'autre le travail vs je bosse avec cette autre personne qui me mentore et partage son savoir de manière synchrone
-  > J : QUand la personne avec la connaissance n'est pas présente, le projet stagne / je suis dans la galère / pas efficace
-
-  > JLA : Daily sans réellement s'écouter car on s'adresse à des personnes pas concernées. Je bosse sur la fonctionnalité F, si Bernand ne la connait, il va m'écouter un peu sans comprendre exactement ce dont je parle. Au final, il a perdu du temps et moi aussi
-  > DKO : Point de synchro sur "je viens de faire ça pour info, ça ressembler à ça". Quand un dév bosse sur une fonctionnalité et pas moi, je n'ai pas la maîtrise du sujet donc suis dans l'incapacité de gérer la prod de cette feat 
-
-  > JLA : Lorsqu'il y a un soucis, on passe plus de temps à trouver le responsable qu'à résoudre le problème
-  > DKO : Lorsqu'il y a un soucis et que toute l'équipe ne participe pas à la résolution, certains choix / compromis aurient pu être [meilleur].
+> **Jonathan**: Personnellement, j'étais dans l'incapacité de réaliser un projet de A à Z (back, front, CI/CD, déploiement/hébergement, sécurité, etc.). En voyant les offres d'emploi pour du dév, c'est souvent le mouton à 5 pattes qui est attendu 🐑. Il y a trop de compétences attendues dans une fiche de poste. On peut avoir survolé mais sans maîtriser les compétences demandées. Maîtriser ces compétences est impossible pour une personne [normale] - Jonathan
+>
+> **Dimitri**: De mon côté, je cherche à avoir de l'homogénéité au sein de l'équipe. Je suis fatigué de devoir répété des choix de design qui ont été pris avec une partie des membres de l'équipe mais pas tout le monde. J'aime comprendre aussi pourquoi certains choix ont été fait donc je vais à mon tour demander ce qui a motivé tel ou tel choix. - Dimitri
+>
+> **Dimitri**: Pratiques !=. Comment se synchro / se mettre d'accord
+>
+> **Jonathan**: Besoin de trop d'interactions entre les différentes personnes. On adresse trop de sujet en même temps. On avance pas tous au même rythme 
+>
+> **Dimitri**: Je suis pas bon en front -> Je laisse à quelque d'autre le travail vs je bosse avec cette autre personne qui me mentore et partage son savoir de manière synchrone
+>
+> **Jonathan**: QUand la personne avec la connaissance n'est pas présente, le projet stagne / je suis dans la galère / pas efficace
+>
+> **Jonathan**: Daily sans réellement s'écouter car on s'adresse à des personnes pas concernées. Je bosse sur la fonctionnalité F, si Bernand ne la connait, il va m'écouter un peu sans comprendre exactement ce dont je parle. Au final, il a perdu du temps et moi aussi
+>
+> **Dimitri**: Point de synchro sur "je viens de faire ça pour info, ça ressembler à ça". Quand un dév bosse sur une fonctionnalité et pas moi, je n'ai pas la maîtrise du sujet donc suis dans l'incapacité de gérer la prod de cette feat 
+>
+> **Jonathan**: Lorsqu'il y a un soucis, on passe plus de temps à trouver le responsable qu'à résoudre le problème
+>
+> **Dimitri**: Lorsqu'il y a un soucis et que toute l'équipe ne participe pas à la résolution, certains choix / compromis aurient pu être [meilleur].
 
 --- Idée : switch les quotes en fausse conversation
 Le mob programming répond à cette problématique d'optenir "un" dév qui sache adresser un scope plus large
