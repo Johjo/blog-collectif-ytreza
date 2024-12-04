@@ -70,13 +70,16 @@ Problématique: Pas de dispo à 100% prévu
 
 ## For which activities?
 
-We currently pratice mob programming for various types of activitie, the most obvious one beingis development. After all we are devs, right?
+### During a mission
+We currently pratice mob programming for various types of activities, the most obvious one being development. After all we are devs, right?
 Because the coding part in a project is never the starting point, nor the ending one, we also have to consider other chores to do.
 
-Before partnership begins between a client and us, we need to understand the problem we aim to solve.  
-Having the team available for a meeting helps a lot with asking the right questions. Remember, we need as much information as possible to make sure we have the required skills to come up with the right solution. 
+Before partnership even begins between a client and us, we need to understand the problem we aim to solve.  
+Having the team available for a first meeting helps a lot to ask the right questions. Remember, we need as much information as possible to make sure we have the required skills to come up with the right solution. 
 
-Partnership might have to begin with a quote and this is something we tackle collectively
+Speaking about partnership, it might have to begin with a quote and this is something we tackle collectively. We decide together to share a degree of risk. We success as a team or fail as team.
+
+### Outside a mission
 Priorisation des tâches au sein d'une mission
 Construction d'un devis / répondre à un prospect
 Organisation / structuration du collectif.
@@ -112,6 +115,9 @@ Marjorie Aubert : https://www.linkedin.com/in/marjorie-aubert-full-stack-develop
 
 Emily Bache (méthode samman)
 
+## How pair/mob programming helps YOU ? 
+
+// Use Airtable answers
 
 
 ## How to start
