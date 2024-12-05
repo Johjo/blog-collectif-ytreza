@@ -78,19 +78,21 @@ Because the coding part in a project is never the starting point, nor the ending
 Before partnership even begins between a client and us, we need to understand the problem we aim to solve. Having the team available for a first meeting helps a lot to ask the right questions.  
 Remember, we need as much information as possible to make sure we have the required skills to come up with the right solution. We might have to onboard newcomers in our collective to fulfill these requirements.
 
-About partnership, it might have to begin with a quote and this is something we tackle collectively. We decide together to share a degree of risk. We success as a team or fail as team.
+About partnership, it might have to begin with a quote and this is something we tackle collectively. We decide together to share a degree of risk. We succeed as a team or fail as team.
 
 Priorities are always discussed and defined with the customer. We aim for the most value as fast as possible while seeking for active user feedbacks.  
 Because the most urgent feature could break into multiple subtasks, priorisation is dealt internally. There is always someone in the mob programming who put on the focus maintener role. 
 
 ### Outside of a mission
-Organisation / structuration du collectif.
-Ce n'est pas une personne qui pour tout le monde et on prend une décision qu'à partir de 3 personnes présentes. Pour autant, on attend pas les absents (sinon ça ralentirait la construction)
-S'essayer à l'écriture d'article (au hasard :D)
-Optimiser nos profiles LinkedIn et autres
-Organisation d'événements
-Post LinkedIn ? Ca reste un branding individuel même si une partie du branding collectif peut être derrière :)
 
+One of the primary activities outside of missions is the organization and structuring of the collective. This involves regular meetings where team members come together to discuss ongoing projects, share insights, and strategize on future endeavors. By establishing a clear framework for collaboration, the team ensures that everyone is aligned and that their collective efforts are directed towards common goals.
+
+A fundamental principle of our collective decision-making process is that no single individual speaks for the group. Instead, decisions are made collectively, requiring the presence of at least three members to ensure diverse perspectives are considered. This approach not only empowers each team member but also prevents stagnation; we do not wait for absent individuals to weigh in, as this could halt our progress
+
+In addition to decision-making, we take the time to enhance our professional profiles on platforms like LinkedIn and Malt. By collaboratively refining our online presence, we can better showcase our skills and experiences, ultimately benefiting both individual team members and the collective as a whole.
+Organisation / structuration du collectif. Guess what, this article is no exception.
+
+Scheduling events is another critical activity that we undertake outside of missions. Whether it’s organizing workshops, meetups, or team-building activities, we prioritize creating opportunities for connection and learning. These events not only strengthen our team dynamics but also allow us to engage with the wider community, sharing our passion for mob programming and learning from others in the field.
 
 ## How
 ### Les moyens techniques
