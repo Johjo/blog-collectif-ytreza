@@ -27,10 +27,14 @@ But did it really ?
 
 Instead of coming up with a list of all reasons for why we choose mob programming, let's dig into a common situation you might have encountered in the past.
 
+-- Se demander quelles sont les frustrations du moment --
+
 > **Jonathan**: Hey, I recently went through job offers here and there and the only thing I saw is that everyone one is looking for unicorns 🦄. They all want us to be able to work on the backend, frontend, CI/CD, build and host the infrastructure, security, GPDR, and so on. How could one normal person truly master all these skills? I can master few but only scratch the surface of the other ones. It's quite a journey. 
->
+
 > **Dimitri**: I get it. They don't want, or don't have the budget, to hire 5 persons. Depending on the project, infrastructure might just be a thing they need to address at the very beginning but won't see a lot of work afterwards. Look, when the CI is in place, it mostly don't change. Few optimizations here and there but that's basically it, right?
->
+> **Joanthan**: Lorem ipsum
+> **Collective**: Hmm. Guys? -> ne pas le laisser parler jusqu'à qu'il intervienne un peu plus fortement
+> 
 >  when De mon côté, je cherche à avoir de l'homogénéité au sein de l'équipe. Je suis fatigué de devoir répété des choix de design qui ont été pris avec une partie des membres de l'équipe mais pas tout le monde. J'aime comprendre aussi pourquoi certains choix ont été fait donc je vais à mon tour demander ce qui a motivé tel ou tel choix. - Dimitri
 >
 > **Dimitri**: Pratiques !=. Comment se synchro / se mettre d'accord
