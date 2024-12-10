@@ -25,36 +25,86 @@ But did it really ?
 
 ## Why do we choose mob programming ?
 
-Instead of coming up with a list of all reasons for why we choose mob programming, let's dig into a common situation you might have encountered in the past.
+Instead of coming up with a list of all the reasons why we choose mob programming, let's dig into few common situations you might also have encountered in the past.
 
--- Se demander quelles sont les frustrations du moment --
+### 🌈🦄 Unicorns 🦄🌈
+> **Jonathan**: Seriously, this is nuts.
+>
+> **Dimitri**: ?
+>
+> **Jonathan**: I recently came across a few job offers... Every time, developers are asked to be able to work on the backend, frontend, CI/CD, infrastructure, security, and so on.
+>
+> **Dimitri**: I get it. They don't want, and might not even have the budget, to hire 5 persons. Depending on the project, infrastructure might just be a thing they need to address at the very beginning but won't see a lot of work afterwards. Same about the CI, which only sees a few optimizations here and there.
+>
+> **Jonathan**: But how could one normal person truly master all these skills? 🤷‍♂️ I can master a few but only scratch the surface of the other ones. I'm no unicorn 🦄
+>
+> **Alexandre**: I can easily deal with the frontend 🖼️ but could get some help on the backend ⚙️
+>
+> **Jonathan**: Exact opposite on my end...
+> 
+> **Dimitri**: I'm quite familiar with CI/CD and cloud provisioning.
+>
+> **Alexandre**: We're onto something here 🤔
 
-> **Jonathan**: Hey, I recently went through job offers here and there and the only thing I saw is that everyone one is looking for unicorns 🦄. They all want us to be able to work on the backend, frontend, CI/CD, build and host the infrastructure, security, GPDR, and so on. How could one normal person truly master all these skills? I can master few but only scratch the surface of the other ones. It's quite a journey. 
->
-> **Dimitri**: I get it. They don't want, or don't have the budget, to hire 5 persons. Depending on the project, infrastructure might just be a thing they need to address at the very beginning but won't see a lot of work afterwards. Look, when the CI is in place, it mostly don't change. Few optimizations here and there but that's basically it, right?
-> **Jonathan**: Lorem ipsum
->
-> **Collective**: Hmm. Guys? -> ne pas le laisser parler jusqu'à qu'il intervienne un peu plus fortement
->
->  when De mon côté, je cherche à avoir de l'homogénéité au sein de l'équipe. Je suis fatigué de devoir répété des choix de design qui ont été pris avec une partie des membres de l'équipe mais pas tout le monde. J'aime comprendre aussi pourquoi certains choix ont été fait donc je vais à mon tour demander ce qui a motivé tel ou tel choix. - Dimitri
->
-> **Dimitri**: Pratiques !=. Comment se synchro / se mettre d'accord
->
-> **Jonathan**: Besoin de trop d'interactions entre les différentes personnes. On adresse trop de sujet en même temps. On avance pas tous au même rythme 
->
-> **Dimitri**: Je suis pas bon en front -> Je laisse à quelque d'autre le travail vs je bosse avec cette autre personne qui me mentore et partage son savoir de manière synchrone
->
-> **Jonathan**: QUand la personne avec la connaissance n'est pas présente, le projet stagne / je suis dans la galère / pas efficace
->
-> **Jonathan**: Daily sans réellement s'écouter car on s'adresse à des personnes pas concernées. Je bosse sur la fonctionnalité F, si Bernand ne la connait, il va m'écouter un peu sans comprendre exactement ce dont je parle. Au final, il a perdu du temps et moi aussi
->
-> **Dimitri**: Point de synchro sur "je viens de faire ça pour info, ça ressembler à ça". Quand un dév bosse sur une fonctionnalité et pas moi, je n'ai pas la maîtrise du sujet donc suis dans l'incapacité de gérer la prod de cette feat 
->
-> **Jonathan**: Lorsqu'il y a un soucis, on passe plus de temps à trouver le responsable qu'à résoudre le problème
->
-> **Dimitri**: Lorsqu'il y a un soucis et que toute l'équipe ne participe pas à la résolution, certains choix / compromis aurient pu être [meilleur].
 
---- Idée : switch les quotes en fausse conversation
+### "We just need a quick tech review before deployment"
+> **Dimitri**: I found my nemesis. The one thing that could end our modern world. Asynchronous blocking code reviews 🤬
+>
+> **Jonathan**: "Slightly" dramatic but I could relate to that. What happened?
+> 
+> **Dimitri**: I am working on a feature for which I now need any team member review approval. Until then, I can't deploy anything 🤦
+>
+> **Jonathan**: So far so good IMHO. Code reviews help in sharing what has been done to the rest of the team.
+>
+> **Dimitri**: Yup. That's the issue.
+>
+> **Jonathan**: I don't get it 🤔
+>
+> **Dimitri**: "What has been done". I already went through the problem multiple times to find, to my knowledge, the best solution and design.
+>
+> **Jonathan**: Yes but you might have missed something.
+>
+> **Dimitri**: Of course but I spent hours on that and now I need to undo mostly everything.
+>
+> **Mickael**: You could have just pair programmed with this person. Just sayin' 🤷‍♂️
+>
+> **Dimitri**: The thing is I worked on this feature with another team member.
+>
+> **Mickael**: Why did not you worked with this person then?
+>
+> **Dimitri**: Same problem. I would have worked with this person but we would still have need review from someone else.
+>
+> **Mickael**: Why did not you ALSO* worked with this person then?
+> 
+> **Jonathan**: He has a point.
+>
+> **Dimitri**: Fair enough. I think I understand were this is going...
+
+### A quick update ⌚
+> **Alexandre**: Am I the only one bored AF during daily meetings?
+>
+> **Mickael**: Careful, slippery terrain ahead 🚧
+>
+> **Alexandre**. What was once a 5 minute meeting turns out to be 🥁🥁🥁 45. Nearly one hour per day. I didn't even get half of what has been said. Why? Because I only worked on a single topic. Let's even say two.
+>
+> **Mickael**: I hope everyone in your meeting does not feel the same.
+>
+> **Alexandre**. Right? It's MENTAL 🤯. Do you have daily meetings in yours?
+>
+> **Mickael**: Well, we keep it short, mostly because we only talk about previous day feature deployments or bottlenecks. Just a quick update for the product team, one might say.
+>
+> **Alexandre**: How do you keep your other team members up-to-date with recent design changes?
+>
+> **Mickael**: We don't. At least not during this meeting. Anything tech-related is often dealt with as soon as it arises.
+>
+> **Mickael**: Disclaimer: We are two devs and mostly work together synchronously.
+>
+> **Alexandre**: We are three and is everyone working on something different to speed up progress.
+>
+> **Mickael**: Let me guess, 9 women = 1 baby in 1 month?
+>
+> **Alexandre**: Pretty much yeah...
+
 Le mob programming répond à cette problématique d'optenir "un" dév qui sache adresser un scope plus large
 Tout le monde connait le projet.
 On apprend tous en même temps.
