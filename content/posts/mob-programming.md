@@ -87,7 +87,7 @@ Instead of coming up with a list of all the reasons why we choose mob programmin
 >
 > **Alexandre**. What was once a 5 minute meeting turns out to be 🥁🥁🥁 45. Nearly one hour per day. I didn't even get half of what has been said. Why? Because I only worked on a single topic. Let's even say two.
 >
-> **Mickael**: I hope everyone in your meeting does not feel the same.
+> **Mickael**: I hope everyone does not feel the same 😅
 >
 > **Alexandre**. Right? It's MENTAL 🤯. Do you have daily meetings in yours?
 >
