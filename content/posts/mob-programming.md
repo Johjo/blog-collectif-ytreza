@@ -99,7 +99,7 @@ Instead of coming up with a list of all the reasons why we choose mob programmin
 >
 > **Mickael**: Disclaimer: We are two devs and mostly work together synchronously.
 >
-> **Alexandre**: We are three and is everyone working on something different to speed up progress.
+> **Alexandre**: We are three and everyone is working on something different to speed up progress.
 >
 > **Mickael**: Let me guess, 9 women = 1 baby in 1 month?
 >
