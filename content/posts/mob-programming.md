@@ -78,7 +78,7 @@ Instead of coming up with a list of all the reasons why we choose mob programmin
 > 
 > **Jonathan**: He has a point.
 >
-> **Dimitri**: Fair enough. I think I understand were this is going...
+> **Dimitri**: Fair enough. I think I understand where this is going...
 
 ### A quick update ⌚
 > **Alexandre**: Am I the only one bored AF during daily meetings?
