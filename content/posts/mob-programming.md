@@ -5,6 +5,7 @@ title = 'Mob Programming'
 +++
 
 ## Genesis
+
 At the very beginning, each developer was behind his own computer in his garage or whatever room they liked to be in. There were very few of them because affording a computer was far from how easy it is today.
 
 Years passed and companies started to show needs for software development. Developers were hired to work on projects in the same place. Development became a team activity. Hurray !
@@ -23,11 +24,12 @@ Et enfin, avec Internet, le remote mob programming a vu le jour.
 
 But did it really ?
 
-## Why do we choose mob programming ?
+## Why mob programming over anything else ?
 
-Instead of coming up with a list of all the reasons why we choose mob programming, let's dig into few common situations you might also have encountered in the past.
+Instead of coming up with a list of all the reasons why we chose mob programming, let's dig into few common situations you might also have encountered in the past.
 
 ### 🌈🦄 Unicorns 🦄🌈
+
 > **Jonathan**: Seriously, this is nuts.
 >
 > **Dimitri**: ?
@@ -46,8 +48,8 @@ Instead of coming up with a list of all the reasons why we choose mob programmin
 >
 > **Alexandre**: We're onto something here 🤔
 
-
 ### "We just need a quick tech review before deployment"
+
 > **Dimitri**: I found my nemesis. The one thing that could end our modern world. Asynchronous blocking code reviews 🤬
 >
 > **Jonathan**: "Slightly" dramatic but I could relate to that. What happened?
@@ -81,6 +83,7 @@ Instead of coming up with a list of all the reasons why we choose mob programmin
 > **Dimitri**: Fair enough. I think I understand where this is going...
 
 ### A quick update ⌚
+
 > **Alexandre**: Am I the only one bored AF during daily meetings?
 >
 > **Mickael**: Careful, slippery terrain ahead 🚧
@@ -105,40 +108,34 @@ Instead of coming up with a list of all the reasons why we choose mob programmin
 >
 > **Alexandre**: Pretty much yeah...
 
-Le mob programming répond à cette problématique d'optenir "un" dév qui sache adresser un scope plus large
-Tout le monde connait le projet.
-On apprend tous en même temps.
-Les décisions sont prises au fil de l'eau
-L'ownership est à l'équipe.
+While there is no unicorn, sadly, these kinds of problems still need to be addressed.
+Because software development is also a highly collaborative activity built around adjustments, compromises, mistakes, and successes, collaboration has to be flawless.
 
-On commence et termine une seule chose à la fois.
-L'équipe entière est responsable du focus de l'équipe (toujours quelqu'un pour faire timekeeper / focus keeper)
+We want everyone to:
+- Have a deep understanding of the problems we aim to solve
+- Learn at the same time, leveraging other members strong expertise
+- Be involved during design decisions
+- Own the product being built
+- Take pride in what we are doing and enjoy teamwork
 
-Il y a toujours au moins une personne pour soutenir le rythme de l'équipe.
-Plus rigoureux.
-Pas de démotivation / d'épuisement.
-
-On sait tous où on en est.
-Pas besoin de faire de réunion / point d'étape asynchrone
-Onboarding très rapide.
-Chacun peut aller et venir en fonction de prios et de agendas de chacun
-Problématique: Pas de dispo à 100% prévu
-
+For all these things to exist, synchronous collaboration is key. Once a group of individuals is seen as one single entity, flawless collaboration is achieved. 
+What better tool than mob programming to shape this team effort?
 
 ## For which activities?
 
-We currently pratice mob programming for various types of activities, the most obvious one being development. After all we are devs, right?
+We currently pratice mob programming for many tasks, the most obvious one being development. After all we are devs, right?
 
 ### During a mission
+
 Because the coding part in a project is never the starting point, nor the ending one, we also have to consider other tasks to attend to.
 
-Before partnership even begins between a client and us, we need to understand the problem we aim to solve. Having the team available for a first meeting helps a lot to ask the right questions.  
+Before a partnership even begins between a client and us, we need to understand the problem we aim to solve. Having the team available for a first meeting helps a lot to ask the right questions. 
 Remember, we need as much information as possible to make sure we have the required skills to come up with the right solution. We might have to onboard newcomers in our collective to fulfill these requirements.
 
-About partnership, it might have to begin with a quote and this is something we tackle collectively. We decide together to share a degree of risk. We succeed as a team or fail as team.
+About partnership, it might have to begin with a quote, and this is something we tackle collectively. We decide together to share a degree of risk. We succeed as a team or fail as a team.
 
-Priorities are always discussed and defined with the customer. We aim for the most value as fast as possible while seeking for active user feedbacks.  
-Because the most urgent feature could break into multiple subtasks, priorisation is dealt internally. There is always someone in the mob programming who put on the focus maintener role. 
+Priorities are always discussed and defined with the customer. We aim for the most value as fast as possible while seeking active user feedback. 
+Because the most urgent feature could break into multiple subtasks, prioritization is dealt internally. There is always someone in the mob programming who puts on the focus maintainer role. 
 
 ### Outside of a mission
 
@@ -152,20 +149,43 @@ Organisation / structuration du collectif. Guess what, this article is no except
 Scheduling events is another critical activity that we undertake outside of missions. Whether it’s organizing workshops, meetups, or team-building activities, we prioritize creating opportunities for connection and learning. These events not only strengthen our team dynamics but also allow us to engage with the wider community, sharing our passion for mob programming and learning from others in the field.
 
 ## How
-### Les moyens techniques
 
-partage de code : LiveShare, CodeWithMe
-partage d'écran : Discord / RustDesk
-Vocal: Discord / meet ponctuel avec les prospects / clients
-Note: Framapad / TODO.md
-Code: Git, mob.sh, timer (navigator / pilot)
+### The tools 🛠️
 
-### La méthode
-Timeboxing avec souplesse (laisse le pilote termienr l'écriture de sa ligne de cas de test par ex et le navigateur finir son flow de pensée)
-Switch régulier navigator / pilot.
-On switche toujours dans un état maîtrisé (rouge ou vert)
-Assigner des rôles à chacun (timekeeper, ). 
-S'assurer que chacun participe activement : la loi des deux pieds 
+The general rule: KISS. Keep your tools "simple, stupid". Sounds familiar? It sure is! Here it's applied as a GENERAL but a DESIGN principle.
+
+- Conversations:
+  - With out clients: Google Meet or Teams because it's usually easier for them
+  - Internally: Discord -> if you need to schedule a meeting switch from a textual conversation to a vocal one, get another tool a try.
+- Screensharing: Discord. Nice we are reusing a tool ♻️
+- Coding:
+  - Share codebase: Git obviously
+  - Work on codebase: We tried LiveShared and CodeWithMe but struggled to make these tools fit with how we work.
+    - Instead, we are now using mob.sh which is by far the best tool for frequent role switching and is based on Git. Another tool being reused ♻️
+- Taking notes:
+  - TODO.md. Yup, it can't be closer to the codebase. We are reusing yet another tool (the codebase) ♻️
+  - Framapad otherwise
+- Priorization:
+  - Code related: Final Version Perfected (FVP) approach in our TODO.md. You know the drill -> ♻️
+  - Elsewhere: Discord threads/posts per topic. We are currently playing with closing a topic when no activity is seen after x days
+
+### The methods 📏
+
+A key aspect of mob programming is a frequent role switch. We target a controlled state (red or green) before switch occurs. If a controlled state can't be reached within minutes, we rollback.
+When should we switch? It depends on the moob and current team pace 🤷‍♂️. Some great moments for this rotation to happen:
+- When mob.sh integrated timer (♻️) tells us to do so -> we decide in advance of how long rotation should be ⌛
+- When we complete a baby step / TDD cycle 🚦
+- Arbitrarily at a specific moment (e.g. "at 2:45PM") 🕑
+- When the driver ends their line of code and the navigator completes their flow of thought. We're not monsters! 👹
+- It depends on the mood 🤷‍♂️
+
+When at least 3 persons are participating to a mob session, things get interesting. You can have someone endorse timekeeper and focuskeeper role. You can even have someone reminding everyone else to take a break from time to time. There are so many [roles](https://github.com/willemlarsen/mobprogrammingrpg/blob/master/rpg_roles_plain_text.md) one could have.
+
+## L'humain 🙆
+
+Did I forget to tell you about how software engineering is a highly collaborative environment. There is no collaboration without human being
+###### HERE ######
+Prof qui est challenge, pas la personne
 
 
 ## Who talks about Software Teaming
