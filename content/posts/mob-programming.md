@@ -16,17 +16,17 @@ These developers had to organize their work in a way that would be efficient.
 
 -- Git appeared, PR (mainly for OSS projects)
 
--- mob programming appears
+-- Mob Programming appears
 
-Tous ces concepts étaient complexes pour partager le travail d'équipe. Un jour, quelqu'un a eu l'idée de simplifier ce process en faisant travailler les développeurs ensemble, sur le même clavier et le même écran. Le mob programming était né.
+Tous ces concepts étaient complexes pour partager le travail d'équipe. Un jour, quelqu'un a eu l'idée de simplifier ce process en faisant travailler les développeurs ensemble, sur le même clavier et le même écran. Le Mob Programming était né.
 
-Et enfin, avec Internet, le remote mob programming a vu le jour.
+Et enfin, avec Internet, le remote Mob Programming a vu le jour.
 
 But did it really ?
 
-# Why mob programming over anything else ?
+# Why Mob Programming over anything else?
 
-Instead of coming up with a list of all the reasons why we chose mob programming, let's dig into few common situations you might also have encountered in the past.
+Instead of coming up with a list of all the reasons why we chose Mob Programming, let's dig into few common situations you might also have encountered in the past.
 
 ## 🌈🦄 Unicorns 🦄🌈
 
@@ -119,11 +119,11 @@ We want everyone to:
 - Take pride in what we are doing and enjoy teamwork
 
 For all these things to exist, synchronous collaboration is key. Once a group of individuals is seen as one single entity, flawless collaboration is achieved. 
-What better tool than mob programming to shape this team effort?
+What better tool than Mob Programming to shape this team effort?
 
-# For which activities
+# For which of our activities?
 
-We currently pratice mob programming for many tasks, the most obvious one being development. After all we are devs, right?
+We currently pratice Mob Programming for many tasks, the most obvious one being development. After all we are devs, right?
 
 ## During a mission
 
@@ -135,7 +135,7 @@ Remember, we need as much information as possible to make sure we have the requi
 About partnership, it might have to begin with a quote, and this is something we tackle collectively. We decide together to share a degree of risk. We succeed as a team or fail as a team.
 
 Priorities are always discussed and defined with the customer. We aim for the most value as fast as possible while seeking active user feedback. 
-Because the most urgent feature could break into multiple subtasks, prioritization is dealt internally. There is always someone in the mob programming who puts on the focus maintainer role. 
+Because the most urgent feature could break into multiple subtasks, prioritization is dealt internally. There is always someone in the Mob Programming who puts on the focus maintainer role. 
 
 ## Outside of a mission
 
@@ -146,13 +146,13 @@ A fundamental principle of our collective decision-making process is that no sin
 In addition to decision-making, we take the time to enhance our professional profiles on platforms like LinkedIn and Malt. By collaboratively refining our online presence, we can better showcase our skills and experiences, ultimately benefiting both individual team members and the collective as a whole.
 Organisation / structuration du collectif. Guess what, this article is no exception.
 
-Scheduling events is another critical activity that we undertake outside of missions. Whether it’s organizing workshops, meetups, or team-building activities, we prioritize creating opportunities for connection and learning. These events not only strengthen our team dynamics but also allow us to engage with the wider community, sharing our passion for mob programming and learning from others in the field.
+Scheduling events is another critical activity that we undertake outside of missions. Whether it’s organizing workshops, meetups, or team-building activities, we prioritize creating opportunities for connection and learning. These events not only strengthen our team dynamics but also allow us to engage with the wider community, sharing our passion for Mob Programming and learning from others in the field.
 
-# How
+# How do we apply it?
 
 ## Tools 🛠️
 
-The general rule: KISS. Keep your tools "simple, stupid". Sounds familiar? It sure is! Here it's applied as a GENERAL but a DESIGN principle.
+The general rule: KISS. Keep your tools "simple, stupid". Sounds familiar? It sure is! Here it's applied as a GENERAL and not a DESIGN principle.
 
 - Conversations:
   - With out clients: Google Meet or Teams because it's usually easier for them
@@ -171,7 +171,7 @@ The general rule: KISS. Keep your tools "simple, stupid". Sounds familiar? It su
 
 ## Methods 📏
 
-A key aspect of mob programming is a frequent role switch. We target a controlled state (red or green) before the switch occurs. If a controlled state can't be reached within minutes, we roll back.
+A key aspect of Mob Programming is a frequent role switch. We target a controlled state (red or green) before the switch occurs. If a controlled state can't be reached within minutes, we roll back.
 When should we switch? It depends on the mood and current team pace 🤷‍♂️. Some great moments for this rotation to happen:
 - When mob.sh integrated timer (♻️) tells us to do so. In fact, we decide in advance how long rotation should be ⌛
 - When we complete a baby step or a TDD cycle 🚦
@@ -187,11 +187,11 @@ There are so many [roles](https://github.com/willemlarsen/mobprogrammingrpg/blob
 
 Did we forget to tell about how much software engineering is a collaborative environment? There is no collaboration without human beings.
 
-Well, for a great mob programming experience, trust needs to be built. You can't start your very first rotation all-in with strong challenges, arguments, and all that good stuff.
+Well, for a great Mob Programming experience, trust needs to be built. You can't start your very first rotation all-in with strong challenges, arguments, and all that good stuff.
 
 Practicing kata is a lovely way to step into it and to learn about how you and your partners react to different situations. As always, it's important to remember that it's the job that's being criticized and not the person.
 
-# Who talks about it
+# Who talks about it?
 
 Is it possible to mention Mob Programming without mentioning [Woody ZUILL](https://www.linkedin.com/in/woodyzuill/)? Let's give credit where credit is due. He and his team are the originators of Mob Programming.
 
@@ -202,12 +202,12 @@ In France, you can follow:
 - [Hadrien MENS-PELLEN](https://www.linkedin.com/in/hadrien-mens-pellen-39071231/). I'm still looking for his "Mob Programming: Is it worth it?" talk replay 
 
 
-## How pair/mob programming helps YOU ? 
+## How Mob Programming helps YOU? 
 
 // Use Airtable answers
 
 
-# Where to start
+# Where to start?
 
 Probably the best way to start would be with your team as long as you get along quite well. You can try a simple refactoring Kata with 10 minute (max!) rotation. If the experience was pleasing to everywhere, do it again. And again! Practice as a team 💪
 If you struggle to implement this activity, you can get in touch with a coach who will be glad to help you out in this wonderful journey.
