@@ -216,6 +216,6 @@ You're not ready to start with your current team? Let's try it together using ou
 
 You can also look for meetups near you which organize meetups with coding dojo. Chances are, when there is a coding dojo, there is Mob Programming not that far.
 
-# Dig deeper
+# We need to go deeper 🕳️
 
-Ok you are quite used to Mob Programming, right? Try including these [roles](https://github.com/willemlarsen/mobprogrammingrpg/blob/master/rpg_roles_plain_text.md) in your rotations.
+Ok, you are quite used to Mob Programming, right? Try including these [roles](https://github.com/willemlarsen/mobprogrammingrpg/blob/master/rpg_roles_plain_text.md) in your rotations then.
