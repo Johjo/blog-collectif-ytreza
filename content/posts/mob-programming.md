@@ -8,9 +8,9 @@ title = 'Mob Programming'
 
 At the very beginning, each developer was behind his own computer in his garage or whatever room they liked to be in. There were very few of them because affording a computer was far from how easy it is today.
 
-Years passed and companies started to show needs for software development. Developers were hired to work on projects in the same place. Development became a team activity. Hurray !
+Years passed, and companies started to show needs for software development. Developers were hired to work on projects in the same place. Development became a team activity. Hurray!
 
-These developers had to organize their work in a way the would be efficient. 
+These developers had to organize their work in a way that would be efficient.
 
 -- share file with hard disk
 
