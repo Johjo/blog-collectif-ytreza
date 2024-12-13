@@ -171,24 +171,25 @@ The general rule: KISS. Keep your tools "simple, stupid". Sounds familiar? It su
 
 ### The methods 📏
 
-A key aspect of mob programming is a frequent role switch. We target a controlled state (red or green) before switch occurs. If a controlled state can't be reached within minutes, we rollback.
-When should we switch? It depends on the moob and current team pace 🤷‍♂️. Some great moments for this rotation to happen:
-- When mob.sh integrated timer (♻️) tells us to do so -> we decide in advance of how long rotation should be ⌛
-- When we complete a baby step / TDD cycle 🚦
-- Arbitrarily at a specific moment (e.g. "at 2:45PM") 🕑
+A key aspect of mob programming is a frequent role switch. We target a controlled state (red or green) before the switch occurs. If a controlled state can't be reached within minutes, we roll back.
+When should we switch? It depends on the mood and current team pace 🤷‍♂️. Some great moments for this rotation to happen:
+- When mob.sh integrated timer (♻️) tells us to do so. In fact, we decide in advance how long rotation should be ⌛
+- When we complete a baby step or a TDD cycle 🚦
+- Arbitrarily at a specific moment (e.g., at 2:45 PM) 🕑
 - When the driver ends their line of code and the navigator completes their flow of thought. We're not monsters! 👹
 - It depends on the mood 🤷‍♂️
 
-When at least 3 persons are participating to a mob session, things get interesting. You can have someone endorse timekeeper and focuskeeper role. You can even have someone reminding everyone else to take a break from time to time. There are so many [roles](https://github.com/willemlarsen/mobprogrammingrpg/blob/master/rpg_roles_plain_text.md) one could have.
+When at least 3 persons are participating in a mob session, things get interesting. You can have someone endorse the timekeeper and focuskeeper roles. Another team member can even remind the others to take a break. There are so many [roles](https://github.com/willemlarsen/mobprogrammingrpg/blob/master/rpg_roles_plain_text.md) one could have.
 
-## L'humain 🙆
+## The humans 🙆
 
-Did I forget to tell you about how software engineering is a highly collaborative environment. There is no collaboration without human being
-###### HERE ######
-Prof qui est challenge, pas la personne
-
+Did we forget to tell about how much software engineering is a collaborative environment? There is no collaboration without human beings.
+Well, for a great mob programming experience, trust needs to be built. You can't start your very first rotation all-in with strong challenges, arguments, and all that good stuff.
+Practicing kata is a lovely way to step into it and to learn about how you and your partners react to different situations. 
+🧠 As always, it's important to remember that it's the job that's being criticized and not the person.
 
 ## Who talks about Software Teaming
+
 Woody Zuill (son bouquin) & Kevin Meadows
 Chris Pipito (regular free event brite session). [[[Next is scheduled on 12/5 -> Move this on in LI post and outside article]]]
 Manon Carbonnel : https://www.linkedin.com/in/manon-carbonnel/ Elle intervient souvent dans les con
