@@ -159,8 +159,8 @@ The general rule: KISS. Keep your tools "simple, stupid". Sounds familiar? It su
   - Internally: Discord -> if you need to schedule a meeting switch from a textual conversation to a vocal one, get another tool a try.
 - Screensharing: Discord. Nice we are reusing a tool ♻️
 - Coding:
-  - Share codebase: Git obviously
-  - Work on codebase: We tried LiveShared and CodeWithMe but struggled to make these tools fit with how we work.
+  - Sharing the codebase: Git obviously
+  - Working on the codebase: We tried LiveShared and CodeWithMe but struggled to make these tools fit with how we work.
     - Instead, we are now using mob.sh which is by far the best tool for frequent role switching and is based on Git. Another tool being reused ♻️
 - Taking notes:
   - TODO.md. Yup, it can't be closer to the codebase. We are reusing yet another tool (the codebase) ♻️
