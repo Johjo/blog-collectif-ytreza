@@ -4,7 +4,7 @@ draft = false
 title = 'Mob Programming'
 +++
 
-## Genesis
+# Genesis
 
 At the very beginning, each developer was behind his own computer in his garage or whatever room they liked to be in. There were very few of them because affording a computer was far from how easy it is today.
 
@@ -24,11 +24,11 @@ Et enfin, avec Internet, le remote mob programming a vu le jour.
 
 But did it really ?
 
-## Why mob programming over anything else ?
+# Why mob programming over anything else ?
 
 Instead of coming up with a list of all the reasons why we chose mob programming, let's dig into few common situations you might also have encountered in the past.
 
-### 🌈🦄 Unicorns 🦄🌈
+## 🌈🦄 Unicorns 🦄🌈
 
 > **Jonathan**: Seriously, this is nuts.
 >
@@ -48,7 +48,7 @@ Instead of coming up with a list of all the reasons why we chose mob programming
 >
 > **Alexandre**: We're onto something here 🤔
 
-### "We just need a quick tech review before deployment"
+## "We just need a quick tech review before deployment"
 
 > **Dimitri**: I found my nemesis. The one thing that could end our modern world. Asynchronous blocking code reviews 🤬
 >
@@ -82,7 +82,7 @@ Instead of coming up with a list of all the reasons why we chose mob programming
 >
 > **Dimitri**: Fair enough. I think I understand where this is going...
 
-### A quick update ⌚
+## A quick update ⌚
 
 > **Alexandre**: Am I the only one bored AF during daily meetings?
 >
@@ -121,11 +121,11 @@ We want everyone to:
 For all these things to exist, synchronous collaboration is key. Once a group of individuals is seen as one single entity, flawless collaboration is achieved. 
 What better tool than mob programming to shape this team effort?
 
-## For which activities?
+# For which activities
 
 We currently pratice mob programming for many tasks, the most obvious one being development. After all we are devs, right?
 
-### During a mission
+## During a mission
 
 Because the coding part in a project is never the starting point, nor the ending one, we also have to consider other tasks to attend to.
 
@@ -137,7 +137,7 @@ About partnership, it might have to begin with a quote, and this is something we
 Priorities are always discussed and defined with the customer. We aim for the most value as fast as possible while seeking active user feedback. 
 Because the most urgent feature could break into multiple subtasks, prioritization is dealt internally. There is always someone in the mob programming who puts on the focus maintainer role. 
 
-### Outside of a mission
+## Outside of a mission
 
 One of the primary activities outside of missions is the organization and structuring of the collective. This involves regular meetings where team members come together to discuss ongoing projects, share insights, and strategize on future endeavors. By establishing a clear framework for collaboration, the team ensures that everyone is aligned and that their collective efforts are directed towards common goals.
 
@@ -148,9 +148,9 @@ Organisation / structuration du collectif. Guess what, this article is no except
 
 Scheduling events is another critical activity that we undertake outside of missions. Whether it’s organizing workshops, meetups, or team-building activities, we prioritize creating opportunities for connection and learning. These events not only strengthen our team dynamics but also allow us to engage with the wider community, sharing our passion for mob programming and learning from others in the field.
 
-## How
+# How
 
-### The tools 🛠️
+## Tools 🛠️
 
 The general rule: KISS. Keep your tools "simple, stupid". Sounds familiar? It sure is! Here it's applied as a GENERAL but a DESIGN principle.
 
@@ -169,7 +169,7 @@ The general rule: KISS. Keep your tools "simple, stupid". Sounds familiar? It su
   - Code related: Final Version Perfected (FVP) approach in our TODO.md. You know the drill -> ♻️
   - Elsewhere: Discord threads/posts per topic. We are currently playing with closing a topic when no activity is seen after x days
 
-### The methods 📏
+## Methods 📏
 
 A key aspect of mob programming is a frequent role switch. We target a controlled state (red or green) before the switch occurs. If a controlled state can't be reached within minutes, we roll back.
 When should we switch? It depends on the mood and current team pace 🤷‍♂️. Some great moments for this rotation to happen:
@@ -179,37 +179,43 @@ When should we switch? It depends on the mood and current team pace 🤷‍♂�
 - When the driver ends their line of code and the navigator completes their flow of thought. We're not monsters! 👹
 - It depends on the mood 🤷‍♂️
 
-When at least 3 persons are participating in a mob session, things get interesting. You can have someone endorse the timekeeper and focuskeeper roles. Another team member can even remind the others to take a break. There are so many [roles](https://github.com/willemlarsen/mobprogrammingrpg/blob/master/rpg_roles_plain_text.md) one could have.
+When at least 3 persons are participating in a mob session, things get interesting. You can have someone endorse the timekeeper and focuskeeper roles. Another team member can even remind the others to take a break.
 
-## The humans 🙆
+There are so many [roles](https://github.com/willemlarsen/mobprogrammingrpg/blob/master/rpg_roles_plain_text.md) one could have.
+
+## Humans 🙆
 
 Did we forget to tell about how much software engineering is a collaborative environment? There is no collaboration without human beings.
+
 Well, for a great mob programming experience, trust needs to be built. You can't start your very first rotation all-in with strong challenges, arguments, and all that good stuff.
-Practicing kata is a lovely way to step into it and to learn about how you and your partners react to different situations. 
-🧠 As always, it's important to remember that it's the job that's being criticized and not the person.
 
-## Who talks about Software Teaming
+Practicing kata is a lovely way to step into it and to learn about how you and your partners react to different situations. As always, it's important to remember that it's the job that's being criticized and not the person.
 
-Woody Zuill (son bouquin) & Kevin Meadows
-Chris Pipito (regular free event brite session). [[[Next is scheduled on 12/5 -> Move this on in LI post and outside article]]]
-Manon Carbonnel : https://www.linkedin.com/in/manon-carbonnel/ Elle intervient souvent dans les con
-Marjorie Aubert : https://www.linkedin.com/in/marjorie-aubert-full-stack-developer/ Elle a commencé le développement directement dans une équipe pratiquant le mob et elle partage son expérience durant les conférences. 
+# Who talks about it
 
-Emily Bache (méthode samman)
+Is it possible to mention Mob Programming without mentioning [Woody ZUILL](https://www.linkedin.com/in/woodyzuill/)? Let's give credit where credit is due. He and his team are the originators of Mob Programming.
+
+He, along with [Kevin MEADOWS](https://www.linkedin.com/in/jkmeadows/), pushed this approach even further with ["Software Teaming"](https://softwareteaming.com/). The main idea being to involve the whole team, not just developers, which is truly incredible! 🤯
+
+In France, you can follow:
+- [Manon CARBONNEL](https://www.linkedin.com/in/manon-carbonnel/) and [Marjorie AUBERT](https://www.linkedin.com/in/marjorie-aubert-full-stack-developer/) who both share their experience with Mob Programming during talks.
+- [Hadrien MENS-PELLEN](https://www.linkedin.com/in/hadrien-mens-pellen-39071231/). I'm still looking for his "Mob Programming: Is it worth it?" talk replay 
+
 
 ## How pair/mob programming helps YOU ? 
 
 // Use Airtable answers
 
 
-## How to start
+# Where to start
 
-Vous pouvez aussi trouver des meetup qui organisent des coding dojo. Il y en a dans chaque grande ville. Lors de ces coding dojo, il est courant de le faire en mob programming.
+Probably the best way to start would be with your team as long as you get along quite well. You can try a simple refactoring Kata with 10 minute (max!) rotation. If the experience was pleasing to everywhere, do it again. And again! Practice as a team 💪
+If you struggle to implement this activity, you can get in touch with a coach who will be glad to help you out in this wonderful journey.
 
-Enfin, le meilleur endroit, c'est au sein de votre équipe. Vous pouvez commencer dès maintenant et si la mise en place est trop compliquée, il y a plusieurs coach techniques qui pourraient vous accompagner.
+You're not ready to start with your current team? Let's try it together using our [Discord server](https://discord.gg/XDNbYaBp)
 
-Pas encore chaud de faire ça dans votre équipe ? Venez sur le collectif (lien discord ou pas ?) et on se fait une session ensemble.
+You can also look for meetups near you which organize meetups with coding dojo. Chances are, when there is a coding dojo, there is Mob Programming not that far.
 
-## Aller plus loin
-Nous rejoindre sur le discord : https://discord.gg/Z7GeFzpZBT
-https://github.com/willemlarsen/mobprogrammingrpg/blob/master/rpg_roles_plain_text.md
+# Dig deeper
+
+Ok you are quite used to Mob Programming, right? Try including these [roles](https://github.com/willemlarsen/mobprogrammingrpg/blob/master/rpg_roles_plain_text.md) in your rotations.
