@@ -4,25 +4,23 @@ draft = false
 title = 'Mob Programming'
 +++
 
-# Genesis
+# Quick reminder
 
-At the very beginning, each developer was behind his own computer in his garage or whatever room they liked to be in. There were very few of them because affording a computer was far from how easy it is today.
+Software development, from the very beginning, has been about working together on a single computer. Remember, early computers were pretty expensive, and you could have fit an entire room with just a single one.
+Many engineers were required to operate such a machine at the same time.
 
-Years passed, and companies started to show needs for software development. Developers were hired to work on projects in the same place. Development became a team activity. Hurray!
+We lost this type of collaboration with the beginning of the domestic computer era and our beloved internet 🌐. Nowadays, everyone has their own laptop and could work remotely, which is great; don't get us wrong.
 
-These developers had to organize their work in a way that would be efficient.
+Are we doomed? Yes. End of this article. We hope you like it.
 
--- share file with hard disk
+Naaaah, let's get into the meat of this great topic.
 
--- Git appeared, PR (mainly for OSS projects)
+# What the heck is Mob Programming anyway?
 
--- Mob Programming appears
+It's a team activity where everyone is viewing the same screen and only one can use the keyboard, role switching frequently. That's the general idea, "nothing more, nothing less" we might say.
 
-Tous ces concepts étaient complexes pour partager le travail d'équipe. Un jour, quelqu'un a eu l'idée de simplifier ce process en faisant travailler les développeurs ensemble, sur le même clavier et le même écran. Le Mob Programming était né.
-
-Et enfin, avec Internet, le remote Mob Programming a vu le jour.
-
-But did it really ?
+Nothing less, yes. Nothing more, well... Let's just say there is a lot to it. After all, many books are entirely dedicated to it.
+Kind of like how TDD could sometimes be referred to as just baby steps 😅
 
 # Why Mob Programming over anything else?
 
@@ -199,7 +197,7 @@ He, along with [Kevin MEADOWS](https://www.linkedin.com/in/jkmeadows/), pushed t
 
 In France, you can follow:
 - [Manon CARBONNEL](https://www.linkedin.com/in/manon-carbonnel/) and [Marjorie AUBERT](https://www.linkedin.com/in/marjorie-aubert-full-stack-developer/) who both share their experience with Mob Programming during talks.
-- [Hadrien MENS-PELLEN](https://www.linkedin.com/in/hadrien-mens-pellen-39071231/). I'm still looking for his "Mob Programming: Is it worth it?" talk replay 
+- [Hadrien MENS-PELLEN](https://www.linkedin.com/in/hadrien-mens-pellen-39071231/) -> We are still looking for your "Mob Programming: Is it worth it?" talk replay 😏
 
 
 ## How Mob Programming helps YOU? 
