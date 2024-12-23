@@ -2,3 +2,12 @@ baseURL = 'https://example.org/'
 languageCode = 'fr'
 title = 'Collectif ytreza.dev'
 theme = 'ananke'
+
+[markup]
+[markup.goldmark]
+[markup.goldmark.renderer]
+unsafe = true
+
+[params]
+show_reading_time = true
+custom_css = ['custom.css']
