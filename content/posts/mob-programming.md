@@ -23,7 +23,7 @@ Naaaah, let's get into the meat of this great topic.
 
 # What the heck is Mob Programming anyway?
 
-It's a team activity where everyone is viewing the same screen and only one can use the keyboard, role switching frequently. That's the general idea, "nothing more, nothing less" we might say.
+It's a team activity where everyone is viewing the same screen and only one can use the keyboard, role switching frequently. That's the general idea, "nothing more, nothing less" some might say.
 
 Nothing less, yes. Nothing more, well... Let's just say there is a lot to it. After all, many books are entirely dedicated to it.
 Kind of like how TDD could sometimes be referred to as just baby steps 😅
