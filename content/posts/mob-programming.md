@@ -4,6 +4,12 @@ draft = false
 title = 'Mob Programming'
 +++
 
+# Disclaimer
+
+This article is currently in progress. We recently asked for your feedback using a simple [Airtable form](https://airtable.com/app87w9xfbVXGGcUT/pagBY6xXvJ4T9h9Sy/form). You can of course share yours while this form is open 🙏
+
+**We made a [dashboard](https://airtable.com/app87w9xfbVXGGcUT/pagY0gQcUJGXhcTTb) but still have to integrate everyone feedback into this article**.
+
 # Quick reminder
 
 Software development, from the very beginning, has been about working together on a single computer. Remember, early computers were pretty expensive, and you could have fit an entire room with just a single one.
@@ -202,8 +208,7 @@ In France, you can follow:
 
 ## How Mob Programming helps YOU? 
 
-// Use Airtable answers
-
+**In progress. This is where YOUR feedback will greatly help**
 
 # Where to start?
 
