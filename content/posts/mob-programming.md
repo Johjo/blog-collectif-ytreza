@@ -227,7 +227,7 @@ Probably the best way to start would be with your team as long as you get along 
 
 If you struggle to implement this activity, you can get in touch with a coach who will be glad to help you out in this wonderful journey.
 
-You're not ready to start with your current team? Let's try it together using our [Discord server](https://discord.gg/XDNbYaBp)
+You're not ready to start with your current team? Let's try it together using our [Discord server](https://discord.gg/A6ZrT3cf)
 
 You can also look for meetups near you which organize meetups with coding dojo. Chances are, when there is a coding dojo, there is Mob Programming not that far.
 
