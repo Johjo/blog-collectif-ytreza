@@ -7,7 +7,7 @@ author = ["Jonathan LAURENT", "Dimitri KOCH"]
 
 # Disclaimer
 
-This article is currently in progress. We recently asked for your feedback using a simple [Airtable form](https://airtable.com/app87w9xfbVXGGcUT/pagBY6xXvJ4T9h9Sy/form). You can of course share yours while this form is open whether you choose to stick with the Airtable form or get in you with us using contact@ytreza.dev 🙏
+This article is currently in progress. We recently asked for your feedback using a simple [Airtable form](https://airtable.com/app87w9xfbVXGGcUT/pagBY6xXvJ4T9h9Sy/form). You can of course share yours while this form is open whether you choose to stick with the Airtable form or to get in touch with us using contact@ytreza.dev 🙏
 
 **We made a [dashboard](https://airtable.com/app87w9xfbVXGGcUT/pagY0gQcUJGXhcTTb) but still have to integrate everyone feedback into this article**.
 
