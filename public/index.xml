@@ -6,14 +6,14 @@
     <description>Recent content on Collectif ytreza.dev</description>
     <generator>Hugo</generator>
     <language>fr</language>
-    <lastBuildDate>Tue, 19 Nov 2024 09:55:56 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 23 Dec 2024 00:00:00 +0100</lastBuildDate>
     <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mob Programming</title>
       <link>https://example.org/posts/mob-programming/</link>
-      <pubDate>Tue, 19 Nov 2024 09:55:56 +0100</pubDate>
+      <pubDate>Mon, 23 Dec 2024 00:00:00 +0100</pubDate>
       <guid>https://example.org/posts/mob-programming/</guid>
-      <description>&lt;p&gt;Test&lt;/p&gt;</description>
+      <description>&lt;h1 id=&#34;disclaimer&#34;&gt;Disclaimer&lt;/h1&gt;&#xA;&lt;p&gt;This article is currently in progress. We recently asked for your feedback using a simple &lt;a href=&#34;https://airtable.com/app87w9xfbVXGGcUT/pagBY6xXvJ4T9h9Sy/form&#34;&gt;Airtable form&lt;/a&gt;. You can of course share yours while this form is open whether you choose to stick with the Airtable form or to get in touch with us using &lt;a href=&#34;mailto:contact@ytreza.dev&#34;&gt;contact@ytreza.dev&lt;/a&gt; 🙏&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;We made a &lt;a href=&#34;https://airtable.com/app87w9xfbVXGGcUT/pagY0gQcUJGXhcTTb&#34;&gt;dashboard&lt;/a&gt; but still have to integrate everyone feedback into this article&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;h1 id=&#34;quick-reminder&#34;&gt;Quick reminder&lt;/h1&gt;&#xA;&lt;p&gt;Software development, from the very beginning, has been about working together on a single computer. Remember, early computers were pretty expensive, and you could have fit an entire room with just a single one.&#xA;Many engineers were required to operate such a machine at the same time.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
