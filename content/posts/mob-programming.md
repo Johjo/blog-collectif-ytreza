@@ -24,7 +24,7 @@ Naaaah, let's get into the meat of this great topic.
 
 # What the heck is Mob Programming anyway?
 
-It's a team activity where everyone is viewing the same screen and only one can use the keyboard, role switching frequently. That's the general idea, "nothing more, nothing less" some might say.
+It's a team activity where everyone is viewing the same screen and only one can use the keyboard, role switching frequently. This activity is fueled by someone's idea jumping onto someone else's brain and so on. That's the general idea, "nothing more, nothing less" some might say.
 
 Nothing less, yes. Nothing more, well... Let's just say there is a lot to it. After all, many books are entirely dedicated to it.
 Kind of like how TDD could sometimes be referred to as just baby steps 😅
@@ -122,6 +122,8 @@ Instead of coming up with a list of all the reasons why we chose Mob Programming
 While there are no unicorns, sadly, these kinds of problems still need to be addressed.
 Because software development is also a highly collaborative activity built around adjustments, compromises, mistakes, and successes, collaboration has to be flawless.
 
+Still, don't expect your customers to wait for your collaboration to reach such level. They are waiting for value to be delivered as fast as possible and as regularly as possible. Proper lead time. If the whole team is focused - synchronously working - on the this value, any unclear aspect will be addressed in a matter of minutes, not hours!
+
 We want everyone to:
 
 - Have a deep understanding of the problems we aim to solve
@@ -130,7 +132,7 @@ We want everyone to:
 - Own the product being built
 - Take pride in what we are doing and enjoy teamwork
 
-For all these things to exist, synchronous collaboration is key. Once a group of individuals is seen as one single entity, flawless collaboration is achieved. What better tool than Mob Programming to shape this team effort?
+For all these things to exist, synchronous collaboration is key. Once a group of individuals can be seen as one single entity, flawless collaboration is achieved. What better tool than Mob Programming to shape this team effort?
 
 # For which of our activities?
 
@@ -201,7 +203,7 @@ There are so many [roles](https://github.com/willemlarsen/mobprogrammingrpg/blob
 
 Did we forget to tell about how much software engineering is a collaborative environment? There is no collaboration without human beings.
 
-Well, for a great Mob Programming experience, trust needs to be built. You can't start your very first rotation all-in with strong challenges, arguments, and all that good stuff.
+Well, for a great Mob Programming experience, trust needs to be built. You can't start your very first rotation all-in with strong challenges, arguments, and all that good stuff. It's crucial to establish a framework so that everyone enjoy a sense of belonging.
 
 Practicing kata is a lovely way to step into it and to learn about how you and your partners react to different situations. As always, it's important to remember that it's the job that's being criticized and not the person.
 
