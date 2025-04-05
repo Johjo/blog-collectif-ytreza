@@ -1,7 +1,7 @@
 +++
 date = '2025-04-05T05:55:25+02:00'
 draft = false
-title = 'Feedback_rules_the_world'
+title = 'Feedback rules (the world) - Partie 1'
 +++
 
 # Feedback rules (the world)
@@ -76,27 +76,14 @@ Je reste attentif à ce qu'il se passe autour, pour éventuellement changer de p
 
 ### Le schéma du feedback
 
+La théorie du feedback repose sur le schéma suivant. Nous étudierons cette théorie dans les prochains articles.
 
+![Théorie du feedback - action constater déséquilibre qui donne etat déséquilibre puis action équilibrer qui donne état équilibré ](theoriedufeedback.png)
 
+## Conclusion
+Nous n'avons pas conscience de l'énorme quantité d'informations qui flotte autour de nous en permanence. 
 
-Le feedback dirige le monde. En prendre conscience nous permet 
+Savoir cela n'est pas très intéressant, sauf si nous nous en servons pour nous améliorer.
 
-- source de feedback
-- est-ce que le feedback vient à nous ou est-ce qu'on doit aller le chercher
-- coût du feedback en temps, energie, ressource
-	- coût de mise en place du feedback
-- délai avant de récupérer le feedback
-- boucle de feedback
-- double boucle de feedback
-- le monde est instable en permanence, il faut viser le feedback 
-- feedback mental
-- feedback sensitif
-- feedback technique
-- feedback brut / feedback raffiné (traduit)
-- détecter un déséquilibre / créer un déséquilibre
-- déséquilibre, chaos / équilibre, stabilité
-
-- exemple : initialiser une variable en TDD vs l'écrire directement
-- feedback : definition of done
-
-Présenter la boucle de feedback initiale
+C'est ce que nous étudierons dans le prochain article
+[Feedback rules (the world) - partie 2](../feedback_rules_the_world_part_2).
