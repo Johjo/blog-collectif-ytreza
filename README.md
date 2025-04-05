@@ -18,3 +18,4 @@ hugo new content content/posts/my-first-post.md
 ```
 
 `content/posts/my-first-post.md` est le chemin du nouveau post. **Attention de ne pas oublier le .md**
+
