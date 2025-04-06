@@ -12,11 +12,11 @@ Cependant, bien que souvent mentionné, présent dans certains concepts comme l'
 
 C'est l'objectif de cet article, remettre en avant cet outil qui régit notre monde et que nous utilisons en permamence sans en avoir conscience.
 
-## Introduction
+# Introduction
 
-### La nature du feedback
+## La nature du feedback
 
-#### Les cinq sens
+### Les cinq sens
 
 L'être humain a cinq sens : *le goût, l'odorat, le toucher, l'ouie et la vue*. Ce sont eux qui régissent notre quotidien.
 
@@ -25,11 +25,11 @@ Si on est ébloui.e, on détourne le regard.
 
 Nous recevons en permanence du feedback du monde extérieur.
 
-#### La pensée
+### La pensée
 
 A partir des informations obtenues grâce à nos cinq sens, nous pouvons à notre tour créer du feedback. Nous raffinons ces informations grâce à notre pensée, de cela en découle des décisions puis des actions qui créent un nouveau feedback que nous renvoyons au monde extérieur.
 
-### Le passage à l'action
+## Le passage à l'action
 
 Sans feedback, pas d'action.
 
@@ -38,7 +38,7 @@ Si vous ne voyez pas une lumière éblouissante, vous ne détournerez pas le reg
 
 Toutes les actions que nous effectuons à chaque instant se déclenchent parce que nous avons eu un feedback, la plupart du temps inconscient.
 
-### Conscientiser le feedback
+## Conscientiser le feedback
 
 Heureusement pour nous, nous n'avons pas conscience de tous les phénomènes qui se passent dans notre corps ou dans le monde. Nous ne sommes pas en mesure de traiter une infinité d'information.
 
@@ -46,9 +46,9 @@ Traiter le feedback demande beaucoup d'énergie et nous avons appris à le faire
 
 Et si nous découvrions la stratégie du feedback ? 
 
-## La stratégie du feedback
+# La stratégie du feedback
 
-### L'univers est chaotique
+## L'univers est chaotique
 
 Notre monde est complexe. Il se produit une infinité de choses en permanence. Nous n'avons pas les moyens de recevoir et traiter toutes ces informations.
 
@@ -56,7 +56,7 @@ Nous adaptons donc notre perception pour ne recevoir que les informations qui no
 
 Il y a tout le temps quelque chose qui change, ces changements en entraînent d'autres. Mais il y a aussi certaines choses qui ne changent pas, qui ne changent plus. Nous pouvons constater la stabilité de ces choses, c'est aussi un feedback.
 
-### Feedback binaire
+## Feedback binaire
 
 La stratégie du feedback repose sur ce concept d'instabilité et de stabilité, de chaos et d'harmonie.
 
@@ -72,7 +72,7 @@ Tant que je ne suis pas de l'autre côté, je reste concentré sur l'action de t
 
 Je reste attentif à ce qu'il se passe autour, pour éventuellement changer de priorité, mais ma priorité ne changera pas tant que je n'aurai pas traversé la route.
 
-### Le schéma du feedback
+## Le schéma du feedback
 
 La théorie du feedback repose sur le schéma suivant. Nous étudierons cette théorie dans les prochains articles.
 
@@ -81,7 +81,7 @@ La théorie du feedback repose sur le schéma suivant. Nous étudierons cette th
 ## Conclusion
 Nous n'avons pas conscience de l'énorme quantité d'informations qui flottent autour de nous en permanence. 
 
-Savoir cela n'est pas très intéressant, sauf si nous nous en servons pour nous améliorer.
+Savoir cela n'est pas très intéressant, sauf si cela nous permet d'établir des stratégies afin d'être plus efficace, plus rapide, plus qualitatif.
 
 C'est ce que nous étudierons dans le prochain article
 [Feedback rules (the world) - partie 2](../feedback_rules_the_world_part_2).
