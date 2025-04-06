@@ -1,10 +1,8 @@
 +++
 date = '2025-04-05T05:55:25+02:00'
 draft = false
-title = 'Feedback rules (the world) - Partie 1'
+title = 'Feedback rules (the world) - Partie 1 - prendre conscience'
 +++
-
-# Feedback rules (the world)
 
 En anglais, feedback se traduit par *retour d'information*.
 
@@ -62,7 +60,7 @@ Il y a tout le temps quelque chose qui change, ces changements en entraînent d'
 
 La stratégie du feedback repose sur ce concept d'instabilité et de stabilité, de chaos et d'harmonie.
 
-Il y a tellement d'informations que le plus simpl est faire le tri jusqu'à n'observer qu'une seule chose. En observant une seule chose à la fois, la prise de décision et le passage à l'action deviennent plus facile.
+Il y a tellement d'informations que le plus simple est de faire le tri jusqu'à n'observer qu'une seule chose. En observant une seule chose à la fois, la prise de décision et le passage à l'action deviennent plus facile.
 
 Cela ne signifie pas que l'on doit prendre qu'une seule information du feedback. Cela signifie que l'on doit adapter notre perception pour que l'on ait simplement à dire : *c'est vrai ou c'est faux*.
 
