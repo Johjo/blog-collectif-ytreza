@@ -1,7 +1,7 @@
 +++
 date = '2025-04-05T05:55:25+02:00'
 draft = false
-title = 'Feedback rules (the world) - Partie 1'
+title = 'Feedback rules (the world) - Partie 1 - prendre conscience'
 +++
 
 En anglais, feedback se traduit par *retour d'information*.
@@ -36,7 +36,7 @@ Sans feedback, pas d'action.
 Si vous ne ressentez pas la chaleur, vous n'enleverez pas votre main de la plaque brulante.
 Si vous ne voyez pas une lumière éblouissante, vous ne détournerez pas le regard.
 
-Toutes les actions que nous effectuons à chaque instant se déclenche parce que nous avons eu un feedback, la plupart du temps inconscient.
+Toutes les actions que nous effectuons à chaque instant se déclenchent parce que nous avons eu un feedback, la plupart du temps inconscient.
 
 ## Conscientiser le feedback
 
@@ -54,13 +54,13 @@ Notre monde est complexe. Il se produit une infinité de choses en permanence. N
 
 Nous adaptons donc notre perception pour ne recevoir que les informations qui nous intéressent. Nous faisons le tri.
 
-Il y a tout le temps quelque chose qui change, ces changements en entraîne d'autres. Mais il y a aussi certaines choses qui ne changent pas, qui ne changent plus. Nous pouvons constater la stabilité de ces choses, c'est aussi un feedback.
+Il y a tout le temps quelque chose qui change, ces changements en entraînent d'autres. Mais il y a aussi certaines choses qui ne changent pas, qui ne changent plus. Nous pouvons constater la stabilité de ces choses, c'est aussi un feedback.
 
 ## Feedback binaire
 
 La stratégie du feedback repose sur ce concept d'instabilité et de stabilité, de chaos et d'harmonie.
 
-Il y a tellement d'informations que le plus simple, c'est de faire le tri jusqu'à n'observer qu'une seule chose. En observant une seule chose à la fois, la prise de décision et le passage à l'action deviennent plus facile.
+Il y a tellement d'informations que le plus simple est de faire le tri jusqu'à n'observer qu'une seule chose. En observant une seule chose à la fois, la prise de décision et le passage à l'action deviennent plus facile.
 
 Cela ne signifie pas que l'on doit prendre qu'une seule information du feedback. Cela signifie que l'on doit adapter notre perception pour que l'on ait simplement à dire : *c'est vrai ou c'est faux*.
 
@@ -78,8 +78,8 @@ La théorie du feedback repose sur le schéma suivant. Nous étudierons cette th
 
 ![Théorie du feedback - action constater déséquilibre qui donne etat déséquilibre puis action équilibrer qui donne état équilibré ](theoriedufeedback.png)
 
-# Conclusion
-Nous n'avons pas conscience de l'énorme quantité d'informations qui flotte autour de nous en permanence. 
+## Conclusion
+Nous n'avons pas conscience de l'énorme quantité d'informations qui flottent autour de nous en permanence. 
 
 Savoir cela n'est pas très intéressant, sauf si cela nous permet d'établir des stratégies afin d'être plus efficace, plus rapide, plus qualitatif.
 
