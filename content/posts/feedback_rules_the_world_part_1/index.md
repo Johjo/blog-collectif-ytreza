@@ -68,9 +68,9 @@ Par exemple, je souhaite traverser la route sur un passage piéton.
 
 Mon feedback repose entièrement sur cette observation : est-ce que je suis de l'autre côté.
 
-Tant que je ne suis pas de l'autre côté, je reste concentré sur l'action de traverser la route. Cela me force à aller en direction de l'autre trottoir, plutôt que de m'assoir sur le passage piéton.
+Tant que je ne suis pas de l'autre côté, je reste concentré sur l'action de traverser la route. Cela me force à aller en direction de l'autre trottoir, plutôt que de faire une autre action comme m'assoir sur le passage piéton.
 
-Je reste attentif à ce qu'il se passe autour, pour éventuellement changer de priorité, mais ma priorité ne changera pas tant que je n'aurai pas traversé la route.
+Je reste attentif à ce qu'il se passe autour pour éventuellement changer de priorité (une voiture arrive sur moi). Mais je me focalise sur le fait de traverser.
 
 ## Le schéma du feedback
 
