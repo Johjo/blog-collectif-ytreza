@@ -1,3 +1,14 @@
+Installation : 
+
+1. Effectuer un git clone du repository.
+2. Récupérer les sub modules 
+
+```
+git submodule init
+git submodule update
+
+```
+
 Lancer le serveur :
 ```
 hugo server
