@@ -78,7 +78,7 @@ La théorie du feedback repose sur le schéma suivant. Nous étudierons cette th
 
 ![Théorie du feedback - action constater déséquilibre qui donne etat déséquilibre puis action équilibrer qui donne état équilibré ](theoriedufeedback.png)
 
-## Conclusion
+# Conclusion
 Nous n'avons pas conscience de l'énorme quantité d'informations qui flottent autour de nous en permanence. 
 
 Savoir cela n'est pas très intéressant, sauf si cela nous permet d'établir des stratégies afin d'être plus efficace, plus rapide, plus qualitatif.
