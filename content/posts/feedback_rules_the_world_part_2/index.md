@@ -8,7 +8,7 @@ title = 'Feedback rules (the world) - Partie 2 - TDD versus Feedback Rules'
 
 Dans [l'article précédent](../feedback_rules_the_world_part_1), nous avons découvert le schéma suivant : 
 
-![Théorie du feedback - action constater déséquilibre qui donne état déséquilibré puis action équilibrer qui donne état équilibré ](red-green.svg)
+![Théorie du feedback - action constater déséquilibre qui donne état déséquilibré puis action équilibrer qui donne état équilibré ](feedback-rules.svg)
 
 # Le cycle ok -> RED -> ko -> GREEN
 
@@ -35,60 +35,46 @@ TDD repose sur un cycle que l'on appelle Red - Green - Refactoring, le voici :
 
 Reprenons maintenant ce schéma en se basant sur le concept **Feedback Rules** et découvrons ce que cela donne : 
 
-![TDD - Cycle Red Green Refactoring selon feedback rules](tdd-with-feedback-rules.svg).
+![TDD - Cycle Red Green Refactoring selon feedback rules](tdd-frtw.svg).
 
 Contrairement au schéma traditionnel de TDD, le feedback est mis en avant dans les cadres et les activités sont des flèches. 
 
-Feedback rules n'est pas une tentative de vous mettre à TDD. C'est une tentative de mieux décrire les process que nous utilisons.
+En décrivant TDD à l'aide Feedback rules (the world), nous constatons plusieurs choses : 
+- TDD est un process composé de 2 process (Implémentation et refactoring) qui s'exécutent séquentiellement
+- Il y a plusieurs sources de feedback : 
+	- Les tests automatiques qui échouent ou passent
+	- Le constat que le code me convient ou ne me convient pas
 
-La preuve ? L'étape *Refactoring* contient deux étapes RED et GREEN qui n'apparaissent pas dans le cycle TDD traditionnel.
-
-Une nouvelle source de feedback apparait dans ce schéma : *Le code me convient / le code ne me convient pas.*
-
-Et conscientiser qu'il y a plusieurs sources de feedback est le point de départ de **Feedback Rules**
-
-
+Cela met en évidence qu'il y a des choses qui sont faîtes inconsciemment. **Feedback Rules (the world)** est un outil qui permet de les mettre en évidence.
 
 
+# Double loop TDD
 
-Ce schéma nous permet de mettre en place ce que l'on appelle la *definition of done*. 
+Enrichissons notre vision avec un autre process : la double loop TDD.
+
+Voici le schéma traditionnel : 
+
+![TDD - Cycle Red Green Refactoring selon feedback rules](double-loop-tdd-traditionnelle.svg).
+
+La double loop permet de travailler avec un test d'acceptation qui nous indique quand on a fini le travail. 
+
+Utilisons **Feedback Rules (the world)** pour la schématiser : 
+
+![TDD - Cycle Red Green Refactoring selon feedback rules](double-loop-tdd-frtw.svg).
+
+Nous voyons ici que le cycle TDD est imbriqué dans le cycle Double loop TDD.
+
+# Les conclusions
+
+Cette étude nous a permis de mettre en évidence plusieurs choses : 
+
+- Nous utilisons inconsciemment certains process
+- Les process peuvent être : 
+	- imbriqués
+	- séquentiels
+- Il existe plus d'une source de feedback, dont certaines inconscientes
+
+Nous verrons tout cela en détail dans [l'article suivant](../feedback_rules_the_world_part_3).
 
 
 
-
-
-## Definition of done
-
-Ce schéma est le principe d'une itération, et il permet de visualiser les différentes étapes de l'itération : 
-
-- non commencée
-- en cours
-- terminée
-
-Lorsque rien n'est commencé, nous sommes dans un état stable. Puis nous commençons, nous entrons dans un état instable. Enfin, lorsque nous terminons, nous revenons à un état stable.
-
-![Definition of done](definition-of-done.svg)
-
-
-
-
-TODO
-- source de feedback
-- est-ce que le feedback vient à nous ou est-ce qu'on doit aller le chercher
-- coût du feedback en temps, energie, ressource
-	- coût de mise en place du feedback
-- délai avant de récupérer le feedback
-- boucle de feedback
-- double boucle de feedback
-- le monde est instable en permanence, il faut viser le feedback 
-- feedback mental
-- feedback sensitif
-- feedback technique
-- feedback brut / feedback raffiné (traduit)
-- détecter un déséquilibre / créer un déséquilibre
-- déséquilibre, chaos / équilibre, stabilité
-
-- exemple : initialiser une variable en TDD vs l'écrire directement
-- feedback : definition of done
-
-Présenter la boucle de feedback initiale

@@ -76,7 +76,17 @@ Je reste attentif à ce qu'il se passe autour pour éventuellement changer de pr
 
 La théorie du feedback repose sur le schéma suivant. Nous étudierons cette théorie dans les prochains articles.
 
-![Théorie du feedback - action constater déséquilibre qui donne etat déséquilibre puis action équilibrer qui donne état équilibré ](theoriedufeedback.png)
+![Théorie du feedback - action constater déséquilibre qui donne etat déséquilibre puis action équilibrer qui donne état équilibré ](feedback-rules.svg)
+
+### Le cycle ok -> RED -> ko -> GREEN.
+- L’étape RED correspond à l’action de mettre en évidence qu’il y a un déséquilibre.
+- L’étape GREEN est l’action de rééquilibrer.
+- L'état OK correspond à un système stable.
+- L'état KO correspond à un système instable.
+
+
+
+
 
 # Conclusion
 Nous n'avons pas conscience de l'énorme quantité d'informations qui flottent autour de nous en permanence. 
