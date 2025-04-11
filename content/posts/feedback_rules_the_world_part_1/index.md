@@ -79,13 +79,16 @@ La théorie du feedback repose sur le schéma suivant. Nous étudierons cette th
 ![Théorie du feedback - action constater déséquilibre qui donne etat déséquilibre puis action équilibrer qui donne état équilibré ](feedback-rules.svg)
 
 ### Le cycle ok -> RED -> ko -> GREEN.
-- L’étape RED correspond à l’action de mettre en évidence qu’il y a un déséquilibre.
-- L’étape GREEN est l’action de rééquilibrer.
-- L'état OK correspond à un système stable.
-- L'état KO correspond à un système instable.
 
+Le cycle de **Feedback Rules (the world)** est constitué : 
+- d'actions :
+	- RED où l'on cherche à mettre en évidence un déséquilibre, voire le créer
+	- GREEN où on rééquilibre les choses
+- des états 
+	- ok correspond à un système stable.
+	- ko correspond à un système instable.
 
-
+Tout cela constitue le cycle que l'on pourrait nommer : **ok -> RED -> ko -> GREEN**
 
 
 # Conclusion
@@ -93,5 +96,5 @@ Nous n'avons pas conscience de l'énorme quantité d'informations qui flottent a
 
 Savoir cela n'est pas très intéressant, sauf si cela nous permet d'établir des stratégies afin d'être plus efficace, plus rapide, plus qualitatif.
 
-C'est ce que nous étudierons dans le prochain article
+C'est ce que nous commencerons à étudier dans le prochain article
 [Feedback rules (the world) - partie 2](../feedback_rules_the_world_part_2).
