@@ -47,7 +47,7 @@ En décrivant TDD à l'aide de Feedback rules (the world), nous constatons plusi
 	- Les tests automatiques qui échouent ou passent
 	- Le constat que le code me convient ou ne me convient pas
 
-Cela met en évidence qu'il y a des choses qui sont faîtes inconsciemment. **Feedback Rules (the world)** est un outil qui permet de les mettre en évidence.
+Cela met en évidence qu'il y a des choses qui sont faîtes inconsciemment. **FR(TW)** est un outil qui permet de les mettre en évidence.
 
 
 # Double loop TDD
@@ -66,13 +66,16 @@ Utilisons **Feedback Rules (the world)** pour la schématiser :
 
 Nous voyons ici que le cycle TDD est imbriqué dans le cycle Double loop TDD.
 
-# Les conclusions
+# Où se situe TDD par rapport à FR(TW) ?
 
 Voici un schéma pour mieux cerner TDD par rapport à Feedback rules (the world) : 
 
 ![TDD par rapport à feedback rules](ensemble-tdd-frtw.svg).
 
 *TDD* est un sous-ensemble de *FR(TW)*. Et ceux qui pensent faire du TDD est aussi un sous-ensemble de *FR(TW)* qui inclut lui-même TDD. 
+
+
+# Les conclusions
 
 Nous avons donc mis en évidence plusieurs choses : 
 
