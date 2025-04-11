@@ -1,6 +1,6 @@
 +++
 date = '2025-04-06T08:07:52+02:00'
-draft = false
+draft = true
 title = 'Feedback rules (the world) - Partie 2 - TDD versus Feedback Rules'
 +++
 
@@ -10,54 +10,7 @@ Dans [l'article précédent](../feedback_rules_the_world_part_1), nous avons dé
 
 ![Théorie du feedback - action constater déséquilibre qui donne état déséquilibré puis action équilibrer qui donne état équilibré ](red-green.svg)
 
-# Le cycle ok -> RED -> ko -> GREEN
-
-L'étape RED correspond à l'action de mettre en évidence qu'il y a un déséquilibre.
-
-L'étape GREEN est l'action de rééquilibrer.
-
-ok et ko représentent l'état du système. Respectivement quand tout est OK et quand quelque chose ne va pas.
-
-ok -> RED -> ko -> GREEN est le cycle lié à Feedback Rules.
-
-# Test Driven Development
-
-Ce cycle RED - GREEN ressemble énormément au cyle RED - GREEN - REFACTORING
-
-Faisons un petit passage dans le monde du Test Driven Development (TDD). C'est cette méthode qui m'a inspiré cette série d'articles. 
-
-TDD repose sur un cycle que l'on appelle Red - Green - Refactoring, le voici : 
-![TDD - cycle red green refactoring](tdd-red-green-refactoring.svg)
-
-- Red : on met en place un test qui échoue
-- Green : on fait passer le test
-- Refactoring : on arrange le code
-
-Reprenons maintenant ce schéma en se basant sur le concept **Feedback Rules** et découvrons ce que cela donne : 
-
-![TDD - Cycle Red Green Refactoring selon feedback rules](tdd-with-feedback-rules.svg).
-
-Contrairement au schéma traditionnel de TDD, le feedback est mis en avant dans les cadres et les activités sont des flèches. 
-
-Feedback rules n'est pas une tentative de vous mettre à TDD. C'est une tentative de mieux décrire les process que nous utilisons.
-
-La preuve ? L'étape *Refactoring* contient deux étapes RED et GREEN qui n'apparaissent pas dans le cycle TDD traditionnel.
-
-Une nouvelle source de feedback apparait dans ce schéma : *Le code me convient / le code ne me convient pas.*
-
-Et conscientiser qu'il y a plusieurs sources de feedback est le point de départ de **Feedback Rules**
-
-
-
-
-
-Ce schéma nous permet de mettre en place ce que l'on appelle la *definition of done*. 
-
-
-
-
-
-## Definition of done
+# Definition of done
 
 Ce schéma est le principe d'une itération, et il permet de visualiser les différentes étapes de l'itération : 
 
