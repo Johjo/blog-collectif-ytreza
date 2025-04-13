@@ -38,13 +38,15 @@ Si vous ne voyez pas une lumière éblouissante, vous ne détournerez pas le reg
 
 Toutes les actions que nous effectuons à chaque instant se déclenchent parce que nous avons eu un feedback, la plupart du temps inconscient.
 
-## Conscientiser le feedback
+## Le feedback, un outil qu'il faudrait conscientiser ? 
 
 Heureusement pour nous, nous n'avons pas conscience de tous les phénomènes qui se passent dans notre corps ou dans le monde. Nous ne sommes pas en mesure de traiter une infinité d'information.
 
-Traiter le feedback demande beaucoup d'énergie et nous avons appris à le faire de manière inconsciente.
+Traiter le feedback demande beaucoup d'énergie et nous avons appris à le faire de manière inconsciente. C'est devenu un automatisme.
 
-Et si nous découvrions la stratégie du feedback ? 
+La légende dit qu'il faut 21 jours pour acquérir une nouvelle habitude. Mythe ou réalité, je n'en sais rien. Cependant, je sais que pour acquérir ce nouveau comportement et qu'il devienne automatique, il faut le faire volontairement. En gros, il faut **conscientiser** la pratique.
+
+Prendre conscience du feedback nous mène tout droit à la **stratégie du feedback** ? 
 
 # La stratégie du feedback
 
@@ -58,7 +60,7 @@ Il y a tout le temps quelque chose qui change, ces changements en entraînent d'
 
 ## Feedback binaire
 
-La stratégie du feedback repose sur ce concept d'instabilité et de stabilité, de chaos et d'harmonie.
+La **stratégie du feedback** repose sur ce concept d'instabilité et de stabilité, de chaos et d'harmonie.
 
 Il y a tellement d'informations que le plus simple est de faire le tri jusqu'à n'observer qu'une seule chose. En observant une seule chose à la fois, la prise de décision et le passage à l'action deviennent plus facile.
 
