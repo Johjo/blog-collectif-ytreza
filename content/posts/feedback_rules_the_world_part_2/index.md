@@ -11,7 +11,7 @@ Dans [l'article précédent](../feedback_rules_the_world_part_1), nous avons dé
 ![Théorie du feedback - action constater déséquilibre qui donne état déséquilibré puis action équilibrer qui donne état équilibré ](feedback-rules.svg)
 
 # Le cycle ok -> RED -> ko -> GREEN
-Le cycle de **Feedback Rules (the world)** est constitué : 
+Le cycle de **Feedback Rules (the world)** ou FR(TW) est constitué : 
 - d'actions :
 	- RED où l'on cherche à mettre en évidence un déséquilibre, voire le créer
 	- GREEN où on rééquilibre les choses
@@ -21,7 +21,9 @@ Le cycle de **Feedback Rules (the world)** est constitué :
 
 Tout cela constitue le cycle que l'on pourrait nommer : **ok -> RED -> ko -> GREEN**
 
-# Test Driven Development (TDD)
+# Les méthodes de développement
+
+## Test Driven Development (TDD)
 
 Ce cycle **ok -> RED -> ko -> GREEN** ressemble énormément au cycle TDD que l'on appelle **RED - GREEN - REFACTORING**.
 
@@ -50,7 +52,16 @@ En décrivant TDD à l'aide de Feedback rules (the world), nous constatons plusi
 Cela met en évidence qu'il y a des choses qui sont faîtes inconsciemment. **FR(TW)** est un outil qui permet de les mettre en évidence.
 
 
-# Double loop TDD
+### Où se situe TDD par rapport à FR(TW) ?
+
+Voici un schéma pour mieux cerner TDD par rapport à Feedback rules (the world) : 
+
+![TDD par rapport à feedback rules](ensemble-tdd-frtw.svg).
+
+*TDD* est un sous-ensemble de *FR(TW)*. Et ceux qui pensent faire du TDD est aussi un sous-ensemble de *FR(TW)* qui inclut lui-même TDD. 
+
+
+## Double loop TDD
 
 Enrichissons notre vision avec un autre process : la double loop TDD.
 
@@ -66,14 +77,21 @@ Utilisons **Feedback Rules (the world)** pour la schématiser :
 
 Nous voyons ici que le cycle TDD est imbriqué dans le cycle Double loop TDD.
 
-# Où se situe TDD par rapport à FR(TW) ?
 
-Voici un schéma pour mieux cerner TDD par rapport à Feedback rules (the world) : 
 
-![TDD par rapport à feedback rules](ensemble-tdd-frtw.svg).
+## La méthode traditionnelle
 
-*TDD* est un sous-ensemble de *FR(TW)*. Et ceux qui pensent faire du TDD est aussi un sous-ensemble de *FR(TW)* qui inclut lui-même TDD. 
+Une question que je pose souvent aux personnes qui ne font pas du TDD, c'est de me dire ce qu'ils font à la place.
 
+Les rares réponses que j'ai eu sont : 
+- la méthode traditionnelle
+- la méthode à l'arrache (ou la méthode la R.A.C.H.E, elle existe)
+
+Grâce à **FR(TW)**, je peux essayer de décrire la méthode traditionnelle. Bien entendu, je ne maîtrise plus cette technique depuis des années, mais voici telle que je l'imagine être : 
+
+![Description Méthode traditionnelle](methode-traditionnelle-frtw.svg).
+
+Je suis ouvert aux discusssions pour faire évoluer ce modèle.
 
 # Les conclusions
 
